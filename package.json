@@ -1,0 +1,28 @@
+{
+  "name": "bs4ish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.5.2"
+  },
+  "devDependencies": {
+    "bower": "^1.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdresko/bs4ish.git"
+  },
+  "keywords": [
+    "bootstrap4"
+  ],
+  "author": "Alex Dresko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexdresko/bs4ish/issues"
+  },
+  "homepage": "https://github.com/alexdresko/bs4ish"
+}

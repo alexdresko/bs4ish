@@ -1,0 +1,17 @@
+{
+  "name": "bs4ish",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alexdresko/bs4ish",
+  "authors": [
+    "Alex Dresko <me@alexdresko.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
